@@ -1,0 +1,29 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+th,
+td {
+    padding: 15px;
+}
+
+ul {
+
+    list-style: square;
+
+}
+
+
+#3 {
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+#paragraphs {
+    background-color: blueviolet;
+
+}
